@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FitApp</string>
+    <string name="string_logo_of_the_fitapp">\@String</string>
+    <string name="fitapp">FitApp</string>
 </resources>
